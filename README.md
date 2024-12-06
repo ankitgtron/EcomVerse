@@ -17,6 +17,8 @@ By the end of the course, participants will have developed a complete e-commerce
 
 # Technology Stack
 
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/eac4e4fd-62ae-4cce-aa7d-fe21c216b64a">
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
@@ -248,5 +250,23 @@ Participants are encouraged to customize the user interface and incorporate addi
 **Video Tutorial:**
 - [React Testing](https://www.youtube.com/watch?v=8Xwq35cPwYg)
 - [React Deploy](https://www.youtube.com/watch?v=dg2Gw1HSlpQ)
+
+**Week 6 Deliverables**
+   - Deploy the complete working ecommerce website.
+   - Create a demonstration video of functionality of your ecommerce website
+
+**Screenshots are added for your preference**
+![Screenshot (95)](https://github.com/user-attachments/assets/489c54da-6210-426f-a7c9-01b456aa6254)
+![Screenshot 2024-12-06 170309](https://github.com/user-attachments/assets/6f8f565b-ec0c-49f7-a081-63e8985e3003)
+![Screenshot (88)](https://github.com/user-attachments/assets/eb793b7c-8bba-4c5f-983b-795aa1a20060)
+![Screenshot (89)](https://github.com/user-attachments/assets/d480ad7e-2fa4-47b8-9b21-870a23e9a480)
+![Screenshot (90)](https://github.com/user-attachments/assets/9aa6342b-3b14-4462-bfc4-21c22ee067de)
+![Screenshot (91)](https://github.com/user-attachments/assets/55568305-47fe-42f4-9760-7654c51a79d9)
+![Screenshot (92)](https://github.com/user-attachments/assets/2ec25ee4-db6c-41f1-8ee1-fbf39b60078b)
+![Screenshot (92)](https://github.com/user-attachments/assets/f21fe405-be0c-4020-a4ef-2eadb351f4b0)
+![Screenshot (94)](https://github.com/user-attachments/assets/e4e7f69e-fa4e-4cde-8569-9a0d572bb40a)
+![Screenshot (95)](https://github.com/user-attachments/assets/7d4b857c-8a9e-49bf-8876-7a531edbc18b)
+![Screenshot (96)](https://github.com/user-attachments/assets/37c108ce-a08d-470c-8cb9-0855b477e521)
+
 
 **The End**
