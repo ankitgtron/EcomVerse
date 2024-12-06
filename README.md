@@ -1,15 +1,21 @@
 # React Ecommerce App
 
-Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+# EcomVerse: Build Your E-Commerce Website
+EcomVerse is a modern, fully functional e-commerce platform designed to provide users with a seamless online shopping experience. Utilizing React for the frontend, Strapi for the backend, Redux Toolkit for state management, and Stripe for secure payments, this project empowers developers to create an efficient, responsive, and user-friendly platform.
 
-Video: https://www.youtube.com/watch?v=EBCdyQ_HFMo
+From product listing and shopping cart functionality to secure checkout and admin management, EcomVerse guides participants step-by-step to build an e-commerce platform while mastering essential full-stack development skills.
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+# Mission and Objectives
+## Goal:
+By the end of the course, participants will have developed a complete e-commerce application with essential features and professional design using modern full-stack technologies.
 
-Certainly! Here's the updated **week-by-week plan** with **tasks** and the relevant **reading** and **video resources** included directly beneath each task to make it easy for students to follow along.
+## Objectives:
+- Provide a clear learning path for building e-commerce applications.
+- Cover core functionalities such as product management, user authentication, shopping cart, and payment gateway integration.
+- Equip participants with knowledge of deploying and maintaining web applications.
+- Incorporate scalable technologies and best practices for creating responsive and secure e-commerce platforms.
 
----
-
+# Technology Stack
 ---
 
 
