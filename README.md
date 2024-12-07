@@ -102,6 +102,10 @@ Based on the week-by-week implementation and functionality outlined, the followi
 ![image](https://github.com/user-attachments/assets/bc12be8c-38f8-4389-bff3-c04ed42f2f19)
 ![image](https://github.com/user-attachments/assets/12c272a6-d3d0-48bf-9484-08b540125a0c)
 ![image](https://github.com/user-attachments/assets/87ad1604-174a-49d2-8b82-240d5066342f)
+![image](https://github.com/user-attachments/assets/a2cbafb8-ac71-48b1-b6f2-d4b16b414640)
+![image](https://github.com/user-attachments/assets/ca30acd1-f3e8-4147-aee9-e9198d7d0c95)
+![image](https://github.com/user-attachments/assets/6057ed1e-167a-40d3-ba75-00c8ee86a8a8)
+
 
 
 ---
