@@ -16,8 +16,95 @@ By the end of the course, participants will have developed a complete e-commerce
 - Incorporate scalable technologies and best practices for creating responsive and secure e-commerce platforms.
 
 # Technology Stack
+Here’s the **technology stack** for the **eCommerce app** we discussed earlier, with a focus on building a modern and scalable application:
 
-<img width="419" alt="image" src="https://github.com/user-attachments/assets/eac4e4fd-62ae-4cce-aa7d-fe21c216b64a">
+---
+
+### **Technology Stack for the E-commerce App**
+
+Based on the week-by-week implementation and functionality outlined, the following is the recommended **technology stack**:
+
+### **Frontend**
+1. **React**  
+   - **Why?**: React's component-based architecture is ideal for building dynamic and reusable UI elements such as product cards, checkout forms, and dashboards.
+   - **Use Cases**: Rendering the user interface, managing the product listing, cart, and checkout pages.
+
+2. **Material UI**  
+   - **Why?**: Provides pre-styled, responsive components like grids, buttons, and tables, speeding up development and ensuring design consistency.
+   - **Use Cases**: Designing the product cards, modal dialogs, cart sidebar, and admin dashboard.
+
+3. **Redux Toolkit**  
+   - **Why?**: Simplifies state management and provides efficient handling of the global state for features like the shopping cart and user authentication.
+   - **Use Cases**: Managing cart state, storing user session data, and handling app-wide UI state.
+
+4. **Axios**  
+   - **Why?**: A promise-based HTTP client for communicating with the backend (Strapi) APIs to fetch and post data efficiently.
+   - **Use Cases**: Fetching product data, submitting checkout information, and handling login/signup requests.
+
+---
+
+### **Backend**
+1. **Node.js**  
+   - **Why?**: Forms the runtime environment for Strapi, providing fast and scalable server-side JavaScript execution.
+   - **Use Cases**: Hosting the Strapi backend and handling API requests.
+
+2. **Strapi**  
+   - **Why?**: A headless CMS that simplifies content management, providing an admin interface for managing products, users, and orders.
+   - **Use Cases**: Defining and managing data models like products and orders, generating APIs for the frontend to consume.
+
+3. **Express.js** (optional for customization)  
+   - **Why?**: Lightweight backend framework that complements Node.js and allows for custom API endpoints if additional features are needed.
+   - **Use Cases**: Extending Strapi functionality, handling custom backend logic.
+
+---
+
+### **Database**
+1. **MongoDB**  
+   - **Why?**: A NoSQL database that integrates well with Strapi, offering flexibility in managing hierarchical data like products and orders.
+   - **Use Cases**: Storing product details, user information, cart data, and order history.
+
+---
+
+### **Payment Integration**
+1. **Stripe**  
+   - **Why?**: A secure and developer-friendly payment gateway that supports multiple payment methods and fraud detection.
+   - **Use Cases**: Processing customer payments, handling checkout logic, and managing payment sessions.
+
+---
+
+### **Deployment**
+1. **Frontend**: **Vercel**  
+   - **Why?**: Optimized for React-based applications with automatic builds, previews, and global CDN support.
+   - **Use Cases**: Hosting the React frontend.
+
+2. **Backend**: **Heroku**  
+   - **Why?**: Easy deployment for Node.js and Strapi-based applications with support for environment variables and MongoDB integration.
+   - **Use Cases**: Hosting the Strapi backend.
+
+---
+
+### **Testing**
+1. **Postman**  
+   - **Why?**: API testing tool for verifying backend endpoints and ensuring proper communication between frontend and backend.
+   - **Use Cases**: Testing product APIs, user authentication, and Stripe integration.
+
+2. **Jest**  
+   - **Why?**: A JavaScript testing framework for ensuring the correctness of React components and Redux logic.
+   - **Use Cases**: Unit testing components, ensuring Redux slices function as expected.
+
+---
+
+![image](https://github.com/user-attachments/assets/30dd8221-9328-40a6-807b-1d83de228604)
+![image](https://github.com/user-attachments/assets/ef33452f-e6c3-4114-88e3-eb8f427d5299)
+![image](https://github.com/user-attachments/assets/17dafe98-c671-498d-b5c1-19953621da9c)
+![image](https://github.com/user-attachments/assets/0ca28026-04c2-404e-a12d-08f9d23a60ab)
+![image](https://github.com/user-attachments/assets/64499bef-2a13-4089-901f-d70a597a3d40)
+![image](https://github.com/user-attachments/assets/bc12be8c-38f8-4389-bff3-c04ed42f2f19)
+![image](https://github.com/user-attachments/assets/12c272a6-d3d0-48bf-9484-08b540125a0c)
+![image](https://github.com/user-attachments/assets/87ad1604-174a-49d2-8b82-240d5066342f)
+
+
+---
 
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
