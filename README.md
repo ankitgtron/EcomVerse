@@ -110,6 +110,23 @@ Based on the week-by-week implementation and functionality outlined, the followi
 
 ---
 
+### **Workflow Overview**
+This section illustrates the complete workflow for users and admins in the **EcomVerse** application, covering key functionalities such as browsing products, managing a shopping cart, processing payments, and administering the platform.
+
+---
+
+### **System Architecture**
+This section demonstrates the high-level architecture of the **EcomVerse** app, showcasing the interaction between:
+- The **frontend** (React, Redux Toolkit) for the user interface and state management.
+- The **backend** (Strapi) for handling API requests, product management, and user authentication.
+- The **payment gateway** (Stripe) for secure checkout and payment processing.
+- The **database** (managed via Strapi) for storing product details, user data, and order information.
+- ![image](https://github.com/user-attachments/assets/934fbf9f-682f-49ac-b1f4-a81070e7477c)
+
+
+---
+
+
 # Project Structure for Feature Implementation
 This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic functionalities to advanced features.
 
